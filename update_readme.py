@@ -43,7 +43,7 @@ Every time you push new models, this README updates automatically.
     footer = """---
 
 ## 🧩 Technologies
-- Python 3.x  
+- Python 3.10 
 - TensorFlow / Keras / PyTorch  
 - NumPy, Pandas, Matplotlib  
 
